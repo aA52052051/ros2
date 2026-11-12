@@ -183,7 +183,7 @@ $k_\psi=2.2$，巡航速度 0.95 m/s；转弯前按航向变化限速、接近�
 
 ### 8.4 Ubuntu 桌面实操录屏
 
-[▶ 下载/播放桌面实操视频（4 分 31 秒，1280×800）](../img/humanoid/humanoid_walk_nn/humanoid_walk_nn_demo.mp4)
+> 桌面实操录屏（4 分 31 秒）体积较大，未随仓库提供；下方为运行截图。
 
 ![桌面实操截图](../img/humanoid/humanoid_walk_nn/humanoid_walk_nn_desktop.png)
 
